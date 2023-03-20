@@ -66,6 +66,8 @@ img{
     right: 0;
     background-color: var(--soft-violet);
     opacity: 0.5;
+    margin: 0;
+    padding: 0;
 }
 
 
@@ -133,6 +135,7 @@ article{
     .overlay{
         border-bottom-right-radius: 10px;
         border-top-right-radius: 10px;
+        border-top-left-radius: 0;
     }
     
 
